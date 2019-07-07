@@ -4,7 +4,7 @@ Plugin Name: Discos que contienen una canción
 Plugin URI: 
 Description: 
 Version: 
-Author: 
+Author: jorgiyo
 Author URI: 
 License: 
 License URI: 

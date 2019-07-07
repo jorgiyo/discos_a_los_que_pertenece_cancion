@@ -8,6 +8,7 @@ Author:
 Author URI: 
 License: 
 License URI: 
+GitHub Plugin URI: https://github.com/jorgiyo/discos_a_los_que_pertenece_cancion
 */
 
 function lista_discos_cancion(){

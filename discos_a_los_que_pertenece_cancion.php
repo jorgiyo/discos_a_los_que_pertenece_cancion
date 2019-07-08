@@ -36,7 +36,7 @@ $discos = get_posts(array(
 								?>
 								<li>
 									<a href="<?php echo get_permalink( $disco->ID ); ?>">
-										//<img src="<?php echo $photo['url']; ?>" alt="<?php echo $photo['alt']; ?>" width="30" />
+									<!--	<img src="<?php echo $photo['url']; ?>" alt="<?php echo $photo['alt']; ?>" width="30" /> -->
 										<?php echo get_the_title( $disco->ID ); ?>
 									</a>
 								</li>
